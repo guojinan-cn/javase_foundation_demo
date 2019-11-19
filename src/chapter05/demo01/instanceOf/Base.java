@@ -7,5 +7,4 @@ public class Base implements IBase {
 		// TODO Auto-generated method stub
 		System.out.println("Base...");
 	}
-
 }
