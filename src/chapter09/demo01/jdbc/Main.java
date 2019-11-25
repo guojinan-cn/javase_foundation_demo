@@ -11,7 +11,7 @@ public class Main {
 		//连接数据库的用户名
 		String username = "root";
 		//连接数据库的密码
-		String password = "guojinan";
+		String password = "root";
 		//连接数据库的url
 		String url = "jdbc:mysql://lochalhost:3306/book_manage";
 		//连接数据库的driver
