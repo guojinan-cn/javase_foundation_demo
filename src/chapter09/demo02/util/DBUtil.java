@@ -1,4 +1,4 @@
-package chapter09.demo02.DBUtil;
+package chapter09.demo02.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

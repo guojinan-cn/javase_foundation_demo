@@ -1,6 +1,6 @@
 package chapter09.demo02.test;
 
-import chapter09.demo02.DBUtil.DBUtil;
+import chapter09.demo02.util.DBUtil;
 
 public class DBUtilTest {
 	public static void main(String[] args) {

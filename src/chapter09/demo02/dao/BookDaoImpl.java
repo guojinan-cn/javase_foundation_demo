@@ -7,8 +7,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import chapter09.demo02.DBUtil.DBUtil;
 import chapter09.demo02.po.Book;
+import chapter09.demo02.util.DBUtil;
 
 public class BookDaoImpl implements IBookDao {
 
