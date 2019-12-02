@@ -12,7 +12,7 @@ public class DBUtil {
 	//连接数据库的密码
 	private static String password = "root";
 	//连接数据库的url
-	private static String url = "jdbc:mysql://192.168.142.130:3306/book_manage";
+	private static String url = "jdbc:mysql://localhost:3306/book_manage";
 	//连接数据库的driver
 	private static String driver = "com.mysql.cj.jdbc.Driver";
 	

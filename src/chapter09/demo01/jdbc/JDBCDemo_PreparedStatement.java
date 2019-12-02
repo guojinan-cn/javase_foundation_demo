@@ -13,7 +13,7 @@ public class JDBCDemo_PreparedStatement {
 		//连接数据库的密码
 		String password = "root";
 		//连接数据库的url
-		String url = "jdbc:mysql://192.168.142.130:3306/book_manage";
+		String url = "jdbc:mysql://localhost:3306/book_manage";
 		//连接数据库的driver
 		String driver = "com.mysql.cj.jdbc.Driver";
 		
